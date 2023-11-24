@@ -19,7 +19,7 @@ chmod +x install_appimage.sh
 Run the Script:
 
 ```
-    ./install_appimage.sh
+./install_appimage.sh
 ```
 Follow the on-screen prompts to install your AppImage.
 
